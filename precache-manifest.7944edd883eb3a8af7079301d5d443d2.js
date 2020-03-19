@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6647e33af7a8e28b628a36b1f757382a",
+    "revision": "6f3e3c12dffa90d1910ca5bd827d6b93",
     "url": "/thirsttraps/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thirsttraps/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "5b383868ba0b6796c19c",
+    "revision": "99cc76edcabe2b58e96c",
     "url": "/thirsttraps/static/css/main.9d9ce323.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thirsttraps/static/js/2.c9cf40d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b383868ba0b6796c19c",
-    "url": "/thirsttraps/static/js/main.f078da02.chunk.js"
+    "revision": "99cc76edcabe2b58e96c",
+    "url": "/thirsttraps/static/js/main.e5e05b64.chunk.js"
   },
   {
     "revision": "c579e5669faccbee9dd4",
