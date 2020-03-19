@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/thirsttraps/static/css/main.9d9ce323.chunk.css",
+    "main.js": "/thirsttraps/static/js/main.f078da02.chunk.js",
+    "main.js.map": "/thirsttraps/static/js/main.f078da02.chunk.js.map",
+    "runtime-main.js": "/thirsttraps/static/js/runtime-main.699f68a6.js",
+    "runtime-main.js.map": "/thirsttraps/static/js/runtime-main.699f68a6.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/thirsttraps/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.c9cf40d7.chunk.js": "/thirsttraps/static/js/2.c9cf40d7.chunk.js",
+    "static/js/2.c9cf40d7.chunk.js.map": "/thirsttraps/static/js/2.c9cf40d7.chunk.js.map",
+    "index.html": "/thirsttraps/index.html",
+    "precache-manifest.dfcbb39b1e2f845626d9bcd13a04ccfb.js": "/thirsttraps/precache-manifest.dfcbb39b1e2f845626d9bcd13a04ccfb.js",
+    "service-worker.js": "/thirsttraps/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/thirsttraps/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.9d9ce323.chunk.css.map": "/thirsttraps/static/css/main.9d9ce323.chunk.css.map",
+    "static/js/2.c9cf40d7.chunk.js.LICENSE.txt": "/thirsttraps/static/js/2.c9cf40d7.chunk.js.LICENSE.txt",
+    "static/media/iphone.png": "/thirsttraps/static/media/iphone.a87a3a38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.699f68a6.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.c9cf40d7.chunk.js",
+    "static/css/main.9d9ce323.chunk.css",
+    "static/js/main.f078da02.chunk.js"
+  ]
+}
