@@ -10,7 +10,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
 				{'THIRSTY?'}
 			</p>
 			<div className='center pb3'>
- 				<img alt='iphone' src={iphone} height='600px' />
+ 				<img alt='iphone' src={thirstiphone} height='600px' />
 			</div>
 		</div>
 	);
