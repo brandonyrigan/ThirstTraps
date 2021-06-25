@@ -1,6 +1,6 @@
 import React from 'react';
 import './ImageLinkForm.css';
-import iphone from './iphone.png';
+import thirstiphone from './thirstiphone.png';
 
 
 const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
